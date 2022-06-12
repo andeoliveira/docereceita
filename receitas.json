@@ -1,0 +1,155 @@
+[
+    {
+        "id":"1",
+        "title": "Beijinho",
+        "ingredients": [
+            { 
+                "name": "cacau",
+                "quantity": 250,
+                "measure": "Kg",
+                "observation":"teste obs"
+            },
+            {
+                "name": "leite",
+                "quantity": 10,
+                "measure": "Ml",
+                "observation":"teste obs"
+            },
+            
+            {
+                "name": "manteiga",
+                "quantity": 300,
+                "measure": "g",
+                "observation":"teste obs"
+            }
+        ],
+        "preparation": "levee ao forno por um tempo",
+        "difficulty":"média",
+        "preparationTime": 250,
+        "servings": [
+            {
+                "quantity":10,
+                "measuere": "unidades",
+                "size": "10g",
+                "observation": "sem confeitos"
+            },
+            {
+                "quantity":12,
+                "measuere": "unidades",
+                "size": "20g"
+            }
+        ],
+        "thumbnailUrl": "https://www.cozinhatecnica.com/wp-content/uploads/2021/10/receita-de-beijinho-de-coco-2-500x500.jpg",
+        "imageUrl": "https://www.cozinhatecnica.com/wp-content/uploads/2021/10/receita-de-beijinho-de-coco-2-500x500.jpg",
+        "observation": "observação geral",
+        "presentation": [
+            {
+                "description": "descricao",
+                "imageUrl": "html:"
+            }
+        ],
+        "durability": "200 dias na geladeira"
+    },
+    {
+        "id":"2",
+        "title": "Brigadeiro Tradicional",
+        "ingredients": [
+            { 
+                "name": "cacau",
+                "quantity": 250,
+                "measure": "Kg",
+                "observation":"teste obs"
+            },
+            {
+                "name": "leite",
+                "quantity": 10,
+                "measure": "Ml",
+                "observation":"teste obs"
+            },
+            
+            {
+                "name": "manteiga",
+                "quantity": 300,
+                "measure": "g",
+                "observation":"teste obs"
+            }
+        ],
+        "preparation": "cozinhe em fogo médio",
+        "difficulty":"média",
+        "preparationTime": 250,
+        "servings": [
+            {
+                "quantity":10,
+                "measuere": "unidades",
+                "size": "10g",
+                "observation": "sem confeitos"
+            },
+            {
+                "quantity":12,
+                "measuere": "unidades",
+                "size": "20g"
+            }
+        ],
+        "thumbnailUrl": "https://cdn.panelinha.com.br/receita/958014000000-Brigadeiro.jpg",
+        "imageUrl": "https://cdn.panelinha.com.br/receita/958014000000-Brigadeiro.jpg",
+        "observation": "observação geral",
+        "presentation": [
+            {
+                "description": "descricao",
+                "imageUrl": "html:"
+            }
+        ],
+        "durability": "200 dias na geladeira"
+    },
+    {
+        "id":"3",
+        "title": "Brigadeiro Maracujá",
+        "ingredients": [
+            { 
+                "name": "maracuja",
+                "quantity": 250,
+                "measure": "Kg",
+                "observation":"teste obs"
+            },
+            {
+                "name": "leite",
+                "quantity": 10,
+                "measure": "Ml",
+                "observation":"teste obs"
+            },
+            
+            {
+                "name": "manteiga",
+                "quantity": 300,
+                "measure": "g",
+                "observation":"teste obs"
+            }
+        ],
+        "preparation": "ltempo hsdufh hasudfhusd asudfhiudfhasudif sjhfiusd",
+        "difficulty":"média",
+        "preparationTime": 250,
+        "servings": [
+            {
+                "quantity":10,
+                "measuere": "unidades",
+                "size": "10g",
+                "observation": "sem confeitos"
+            },
+            {
+                "quantity":12,
+                "measuere": "unidades",
+                "size": "20g"
+            }
+        ],
+        "thumbnailUrl": "https://minhasdelicias.com/wp-content/uploads/2020/07/brigadeiro-de-maracuja.jpg",
+        "imageUrl": "https://minhasdelicias.com/wp-content/uploads/2020/07/brigadeiro-de-maracuja.jpg",
+        "observation": "observação geral",
+        "presentation": [
+            {
+                "description": "descricao",
+                "imageUrl": "html:"
+            }
+        ],
+        "durability": "200 dias na geladeira"
+    }   
+]
